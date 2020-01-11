@@ -1,11 +1,11 @@
 # Site settings
-author: Mark A Guza
-title: 
+author: Mark Guza
+title: Leveling Up on my Coding Journey 
 header-img: img/home-bg.png
 email: guzamaguza@gmail.com
-copyright_name: Mark A Guza
+copyright_name: Mark Guza
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog about my coding journey through the Flatiron Program. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  guzamaguza
