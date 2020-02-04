@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Ruby >>>>>"
+date:       2020-02-04 05:30:34 +0000
+permalink:  ruby
+---
+
+
+Before starting this course and my coding journey I had very little clue as to what Ruby was or what made it special. After completing several labs and going through the Procedural Ruby and Object Oriented Ruby categories, it has made me realize the importance of trying new languages and working in different environments. Ruby is great because it is object oriented, good for documentation, allows for rapid prototyping/developing, and is an easy language to start with. Another thing I like about Ruby is that there are tons of online resources and the community is very supportive. Ruby is a great language to start with and is great for learning coding basics. The Tic-Tac-Toe coding labs really taught me how Ruby works and it was extremely satisfying to see the whole project come to life. I believe that a very long and close future relationship with the Ruby language is just starting to blossom!
