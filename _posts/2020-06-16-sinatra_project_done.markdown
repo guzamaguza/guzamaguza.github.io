@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Sinatra Project Done!"
+title:      "Sinatra Project (Stadium Record) Done!"
 date:       2020-06-16 02:09:35 -0400
 permalink:  sinatra_project_done
 ---
